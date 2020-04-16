@@ -1,4 +1,4 @@
-# netflix_latest_app
+# netflixl_app
 
 A new Flutter project.
 

@@ -1,4 +1,4 @@
-package com.example.netflix_latest_app
+package com.example.netflixl_app
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
